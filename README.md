@@ -2,7 +2,7 @@
 
 ## Quick Demo
 
-![x-search](https://user-images.githubusercontent.com/38722307/214448264-86a9da50-eb9f-437e-a24e-afbb904fc3ef.gif)
+![x-search](https://user-images.githubusercontent.com/38722307/214887761-342e47ae-e7da-433d-b5bd-dd8e93afcb7a.gif)
 
 ## See Also
 
