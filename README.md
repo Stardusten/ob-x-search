@@ -2,12 +2,15 @@
 
 ## Quick Demo
 
-![x-search](https://user-images.githubusercontent.com/38722307/214887761-342e47ae-e7da-433d-b5bd-dd8e93afcb7a.gif)
+  ![x-search1](https://user-images.githubusercontent.com/38722307/216741457-53f51167-2d6f-4457-a99e-21d30987626e.gif)
+  ![x-search2](https://user-images.githubusercontent.com/38722307/216741462-b59ee9cb-9195-4f4f-b338-87878c5c7cd6.gif)
+  ![x-search3](https://user-images.githubusercontent.com/38722307/216741467-b5ea07d8-f86c-42c9-901a-00746b6483d6.gif)
+
 
 ## Features
 
-- Use "block" as the minimal search unit (relatively, performance can be terrible)
-- Render math block, table block, code block in the search result
+- Use "section" as the minimal search unit (relatively, performance can be terrible)
+- Render search results
 - Intuitive filters
 
 	| Example | Description |
@@ -19,7 +22,9 @@
 	| `- [x] xxx` | Search "xxx" in all check lists |
 	| `- xxx` or `* xxx` | Search "xxx" in all unordered lists  |
 	| `1. xxx` | Search "xxx" in all ordered lists |
-	| `> linus` or `》 linus` | Search "linux" in all blockquotes |  
+	| `> linus` or `》 linus` | Search "linux" in all blockquotes |
+	
+- Insert file / heading / block link directly from the search result.
 
 ## See Also
 
