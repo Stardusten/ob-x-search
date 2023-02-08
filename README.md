@@ -20,10 +20,11 @@
 	| `$$ mathbb` | Search "mathbb" in all math blocks | 
 	| `\| type` | Search "type" in all table blocks |
 	| `.md dataview` or `。md dataview` (position of ".md" is not important) | Search "dataview" in all files and their aliases |
-	| `- [x] xxx` | Search "xxx" in all check lists |
+	| `-[] xxx` | Search "xxx" in all check lists |
 	| `- xxx` or `* xxx` | Search "xxx" in all unordered lists  |
 	| `1. xxx` | Search "xxx" in all ordered lists |
 	| `> linus` or `》 linus` | Search "linux" in all blockquotes |
+	| `!# Collocation`   | Search "Collocation" in all NON-heading blocks   |
 	
 - Insert file / heading / block link directly from the search result.
 
